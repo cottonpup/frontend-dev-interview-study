@@ -13,4 +13,4 @@
 |  5  |  1. call, apply, bind <br>2. 엄격모드| 2021.MAY.05 |
 |  6  |  1. 자바스크립트 클래스 (함수 생성자와 클래스 차이)<br>2. 자바스크립트 동작 원리(콜 스택, 콜백 큐, 이벤트 루프)| 2021.MAY.08 |
 |  7  | 1. CORS<br>2. JavaScript의 동일 출처 정책 (the same origin policy)<br>3. 개발 시에 CORS 관련 오류를 해결하는 방법| 2021.MAY.11 |
-|  8  |1. 절대 좌표대신 translate() 혹은 반대로 사용하는 이유가 있나요? 있다면 이유에 관해서 설명해주세요.<br>2. 웹사이트에서 assets/resources를 최적화하는 방법에 관해 설명해주세요.| 2021.MAY.14|
+|  8  |1. 절대 좌표대신 translate() 사용하는 이유<br>2. 웹사이트에서 assets/resources를 최적화하는 방법| 2021.MAY.14|
